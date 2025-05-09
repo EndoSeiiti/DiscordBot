@@ -26,3 +26,5 @@ class Morshu(discord.Client):
 bot = Morshu()
 
 bot.run(TOKEN)
+
+hello
